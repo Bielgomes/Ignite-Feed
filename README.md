@@ -8,5 +8,5 @@ Ignite Feed é um dos projetos realizados ao decorrer da Trilha ReactJS da Rocke
 
 ## Tecnologias Utilizadas
 - ReactJS
-- Posport-react
+- Phosport-react
 - Date-fns
